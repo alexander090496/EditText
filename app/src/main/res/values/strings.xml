@@ -6,4 +6,6 @@
     <string name="apellido">Apellido</string>
     <string name="bt1">Aceptar</string>
     <string name="nuevo">editText</string>
+    <string name="str_menu">Buscar</string>
+    <string name="str_con">configuracion</string>
 </resources>
