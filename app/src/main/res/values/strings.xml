@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EditText</string>
+    <string name="nombre">nombre</string>
+    <string name="ape">Apellido</string>
+    <string name="btn">Aceptar</string>
+    <string name="apellido">Apellido</string>
+    <string name="bt1">Aceptar</string>
+    <string name="nuevo">editText</string>
+</resources>
